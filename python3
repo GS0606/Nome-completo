@@ -1,0 +1,6 @@
+def nome_completo():
+...     primeiro_nome = input('Qual seu primeiro nome? ')
+...     segundo_nome = input('Qual o segundo nome? ')
+...     nome_inteiro = primeiro_nome + ' ' +segundo_nome
+...     print(f'Seu nome completo é {nome_inteiro}')
+... 
